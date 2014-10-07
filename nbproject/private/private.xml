@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/RobotMap.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/commands/drivetrain/TankDriveCmd.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/commands/auto/AutoFigureEightCmd.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/commands/auto/AutoTurnDegreeCmd.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/OI.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/commands/auto/AutoDanceCmd.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/commands/auto/AutoDriveTimeCmd.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/Nutrons2014Practice.java</file>
+            <file>file:/C:/Users/John/Documents/NetBeansProjects/Nutrons2014Practice/src/com/nutrons/practice/subsystems/DriveTrain.java</file>
+        </group>
+    </open-files>
+</project-private>
